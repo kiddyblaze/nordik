@@ -1,0 +1,7 @@
+{
+  "name": "Nordik Assistant",
+  "description": "Internal AI assistant for the Nordik team with voice capabilities and persistent chat history.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
